@@ -1,0 +1,15 @@
+div {
+  width: 100px;
+  height: 100px;
+  -webkit-border-radius: 20px;
+          border-radius: 20px;
+  line-height: 100px;
+  background-color: red;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+}
+div h1 {
+  color: white;
+}
